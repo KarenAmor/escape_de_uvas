@@ -1,0 +1,13 @@
+Primero, asegurarse de tener instalado Node.js y TypeScript.
+Crear una carpeta llamada "escape_de_uva" en la ubicación deseada.
+Dentro de la carpeta, crear la subcarpeta "src".
+Dentro de "src", crear la subcarpeta "data".
+Dentro de "src/data", crear un archivo llamado "vinos.json". Este archivo contendrá los datos de los vinos que se van a listar y crear.
+Dentro de "src", crear la subcarpeta "models".
+Dentro de "src/models", crear un archivo llamado "Vino.ts". Este archivo contendrá la definición de la clase "Vino", que representa la estructura de un vino con sus propiedades.
+Dentro de "src", crear la subcarpeta "services".
+Dentro de "src/services", crear un archivo llamado "VinosService.ts". Este archivo contendrá la definición de la clase "VinosService", que será la encargada de manejar los datos de los vinos (leer, escribir, etc.) y proporcionar los métodos necesarios para listar y crear vinos.
+En la raíz del proyecto ("escape_de_uva"), crear un archivo llamado "tsconfig.json". Este archivo contendrá la configuración de TypeScript para el proyecto.
+En la raíz del proyecto, crear un archivo llamado "index.ts". Este archivo será el punto de entrada de la aplicación, donde se creará una instancia de "VinosService" y se llamarán a los métodos necesarios para listar o crear vinos.
+Ejecutar el comando "tsc" para compilar los archivos TypeScript y generar los archivos JavaScript.
+Ejecutar el comando "node index.js" para correr la aplicación y probar los métodos de listar y crear vinos.
