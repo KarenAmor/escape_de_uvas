@@ -1,4 +1,5 @@
-Escape de Uvas
+Escape de Uvas.
+
 Es una aplicación para gestionar una bodega de vinos. Permite listar los vinos existentes y crear nuevos vinos. 
 La aplicación ha sido desarrollada en TypeScript y utiliza Node.js y JSON como base de datos.
 
