@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Malbec",
+    "puntaje": 90
+  },
+  {
+    "id": 2,
+    "nombre": "Cabernet Sauvignon",
+    "puntaje": 88
+  },
+  {
+    "id": 3,
+    "nombre": "Syrah",
+    "puntaje": 91
+  },
+  {
+    "id": 4,
+    "nombre": "Merlot",
+    "puntaje": 85
+  }
+]

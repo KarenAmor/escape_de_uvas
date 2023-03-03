@@ -1,0 +1,12 @@
+{
+  "name": "escape_de_uva",
+  "version": "1.0.0",
+  "description": "Lista y crea puntuacion de vinos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karen Moreno",
+  "license": "ISC",
+  "keywords": []
+}
